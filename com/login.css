@@ -1,0 +1,49 @@
+.main{
+    border: 2px black solid;
+    background-color: skyblue;
+    width: 30%;
+    text-align: center;
+}
+.head{
+    color: blue;
+    text-shadow: 2px 2px 8px #FF0000;
+}
+.color{
+    color: yellow;
+    text-shadow: 0 0 3px #FF0000;
+}
+.color-p{
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.input1{
+    height: 15px;
+    width: 40%;
+}
+.input2{
+    height: 15px;
+    width: 40%;
+}
+.btn1{
+    color: white;
+    background-color: brown;
+    height: 30px;
+    width: 50%;
+}
+.forgiton{
+    color: yellow;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+hr{
+    width: 60%;
+   background-color: red;
+}
+.btn2{
+    color: white;
+    background-color: red;
+    height: 30px;
+    width: 50%;
+}
+.creat{
+    color: white;
+}

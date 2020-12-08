@@ -1,0 +1,61 @@
+.main{
+    border: 2px black solid;
+    background-color: gray;
+    width: 40%;
+    text-align: center;
+}
+.head{
+    color: blue;
+    text-shadow: 2px 2px 8px #FF0000;
+}
+.color{
+    color: yellow;
+    text-shadow: 0 0 3px #FF0000;
+}
+.color-p{
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.input1{
+    height: 15px;
+    width: 40%;
+}
+.input2{
+    height: 15px;
+    width: 40%;
+}
+.input3{
+    height: 15px;
+    width: 40%;
+}
+.gender{
+    color: blue;
+    text-shadow: 2px 2px #ff0000;
+}
+.btn2{
+    color: white;
+    background-color: red;
+    height: 30px;
+    width: 40%;
+}
+.btn3{
+    color: white;
+    background-color: blue;
+    height: 30px;
+    width: 40%;
+}
+.male{
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.female{
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+hr{
+    width: 60%;
+   background-color: red;
+}
+.link{
+    color: white;
+}

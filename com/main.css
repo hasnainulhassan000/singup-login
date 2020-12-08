@@ -1,0 +1,34 @@
+.button1{
+    display: inline;
+}
+ .main{
+    border: 2px black solid;
+    background-color: skyblue;
+    width: 70%;
+    text-align: center;
+}
+.color2{
+    color: white;
+}
+.btn3{
+    color: white;
+    background-color: green;
+    margin-left: 70%;
+}
+ .profile{
+    border: 2px solid red;
+    width: 40%;
+    background-color: lightyellow;
+}  
+.btn{
+    border-radius: 12px;
+    background-color: gray;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.labl{
+    text-shadow: 0 0 3px #FF0000;
+}
+.btn :hover{
+color: white;
+background-color: black;
+}
